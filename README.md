@@ -45,32 +45,74 @@ Desktop apps · Automation · Premium themes
 <summary><b>FEATURED PROJECTS</b></summary>
 <br>
 
-| | Project | Description |
-|:---:|:---|:---|
-| ▶ | [**Guns Views**](https://github.com/zFusions/guns-lol-views-bot) | Desktop control panel for guns.lol campaigns — Electron UI, Go backend, auto-update via GitHub Releases. |
-| ▶ | [**beautiful-mysellauth-themes**](https://github.com/zFusions/beautiful-mysellauth-themes) | Premium SellAuth & MySellAuth storefront themes. Brief → design system → full Nunjucks build. |
+<div align="center">
 
-<br/>
+<table>
+<tr>
+<td width="420" align="center" valign="top">
 
-[![Guns Views](https://img.shields.io/badge/GUNS_VIEWS-guns--lol--views--bot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions/guns-lol-views-bot)
-[![SellAuth themes](https://img.shields.io/badge/SELLAUTH_THEMES-beautiful--mysellauth--themes-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions/beautiful-mysellauth-themes)
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1a1a,100:000000&height=56&section=header&text=Guns%20Views&fontSize=16&fontColor=fff&width=380" alt="Guns Views" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=electron,go,ts,nodejs&theme=dark" width="120" alt="Guns Views stack" />
+
+<br/><br/>
+
+Desktop control panel for guns.lol campaigns.<br/>
+Electron UI · Go backend · Auto-update.
+
+<br/><br/>
+
+<a href="https://github.com/zFusions/guns-lol-views-bot">
+  <img src="https://img.shields.io/badge/View_Repo-guns--lol--views--bot-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Guns Views repo" />
+</a>
+
+<br/><br/>
+
+</td>
+<td width="420" align="center" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1a1a,100:000000&height=56&section=header&text=SellAuth%20Themes&fontSize=16&fontColor=fff&width=380" alt="SellAuth Themes" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="120" alt="SellAuth themes stack" />
+
+<br/><br/>
+
+Premium SellAuth & MySellAuth storefront themes.<br/>
+Brief → design system → full Nunjucks build.
+
+<br/><br/>
+
+<a href="https://github.com/zFusions/beautiful-mysellauth-themes">
+  <img src="https://img.shields.io/badge/View_Repo-beautiful--mysellauth--themes-000000?style=for-the-badge&logo=github&logoColor=white" alt="View SellAuth themes repo" />
+</a>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 </details>
 
 ---
 
 <details open>
-<summary><b>TECH STACK</b></summary>
+<summary><b>SKILLS</b></summary>
 <br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=white)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<div align="center">
+
+### Skills </>
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,electron,go,python,nodejs,discord,git,vscode&theme=dark&perline=5" alt="Skills" />
+
+</div>
 
 </details>
 
@@ -107,9 +149,24 @@ Desktop apps · Automation · Premium themes
 
 <div align="center">
 
+### Connect with me
+
+<p align="center">
+  <a href="https://github.com/zFusions" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+  </a>
+  <a href="https://github.com/zFusions/guns-lol-views-bot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=electron&theme=dark" width="48" height="48" alt="Guns Views" />
+  </a>
+  <a href="https://nodeproxies.xyz/register?ref=C8395E27" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="48" height="48" alt="NodeProxies" />
+  </a>
+</p>
+
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-zFusions-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions)
 [![Guns Views](https://img.shields.io/badge/REPO-guns--lol--views--bot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions/guns-lol-views-bot)
-[![NodeProxies](https://img.shields.io/badge/NodeProxies-Partner-000000?style=for-the-badge&logo=shields.io&logoColor=white)](https://nodeproxies.xyz/register?ref=C8395E27)
 
 </div>
 

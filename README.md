@@ -35,7 +35,7 @@ Desktop apps · Automation · Premium themes
 |:---:|:---|
 | **Focus** | Desktop apps, Discord bots, SellAuth themes |
 | **Stack** | TypeScript, React, Go, Python, Electron |
-| **Currently** | Guns Views · SellAuth themes · open-source tooling |
+| **Currently** | SellAuth themes · open-source tooling |
 
 </details>
 
@@ -47,54 +47,9 @@ Desktop apps · Automation · Premium themes
 
 <div align="center">
 
-<table>
-<tr>
-<td width="420" align="center" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1a1a,100:000000&height=56&section=header&text=Guns%20Views&fontSize=16&fontColor=fff&width=380" alt="Guns Views" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=electron,go,ts,nodejs&theme=dark" width="120" alt="Guns Views stack" />
-
-<br/><br/>
-
-Desktop control panel for guns.lol campaigns.<br/>
-Electron UI · Go backend · Auto-update.
-
-<br/><br/>
-
-<a href="https://github.com/zFusions/guns-lol-views-bot">
-  <img src="https://img.shields.io/badge/View_Repo-guns--lol--views--bot-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Guns Views repo" />
-</a>
-
-<br/><br/>
-
-</td>
-<td width="420" align="center" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1a1a,100:000000&height=56&section=header&text=SellAuth%20Themes&fontSize=16&fontColor=fff&width=380" alt="SellAuth Themes" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="120" alt="SellAuth themes stack" />
-
-<br/><br/>
-
-Premium SellAuth & MySellAuth storefront themes.<br/>
-Brief → design system → full Nunjucks build.
-
-<br/><br/>
-
 <a href="https://github.com/zFusions/beautiful-mysellauth-themes">
-  <img src="https://img.shields.io/badge/View_Repo-beautiful--mysellauth--themes-000000?style=for-the-badge&logo=github&logoColor=white" alt="View SellAuth themes repo" />
+  <img width="460" src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d0d0d&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=333333" alt="beautiful-mysellauth-themes" />
 </a>
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -155,8 +110,8 @@ Brief → design system → full Nunjucks build.
   <a href="https://github.com/zFusions" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
   </a>
-  <a href="https://github.com/zFusions/guns-lol-views-bot" target="_blank">
-    <img src="https://skillicons.dev/icons?i=electron&theme=dark" width="48" height="48" alt="Guns Views" />
+  <a href="https://github.com/zFusions/beautiful-mysellauth-themes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="SellAuth themes" />
   </a>
   <a href="https://nodeproxies.xyz/register?ref=C8395E27" target="_blank">
     <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="48" height="48" alt="NodeProxies" />
@@ -166,7 +121,7 @@ Brief → design system → full Nunjucks build.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-zFusions-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions)
-[![Guns Views](https://img.shields.io/badge/REPO-guns--lol--views--bot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions/guns-lol-views-bot)
+[![SellAuth themes](https://img.shields.io/badge/REPO-beautiful--mysellauth--themes-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions/beautiful-mysellauth-themes)
 
 </div>
 

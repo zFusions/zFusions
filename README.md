@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zfusions/zfusions/main/assets/profile-banner.png" width="100%" alt="zFusions banner" />
+<img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/profile-banner.png" width="100%" alt="zFusions banner" />
 
 ### Building useful tools for VibeCoders
 
@@ -8,14 +8,14 @@ Desktop apps · Automation · Premium themes
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=zfusions&label=PROFILE+VIEWS&color=000000&style=flat-square)](https://github.com/zfusions)
-[![Followers](https://img.shields.io/github/followers/zfusions?style=flat-square&logo=github&logoColor=white&label=Followers&color=000000)](https://github.com/zfusions?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzfusions&query=%24.public_repos&label=PUBLIC+REPOS&style=flat-square&color=000000&logo=github&logoColor=white)](https://github.com/zfusions?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=zFusions&label=PROFILE+VIEWS&color=000000&style=flat-square)](https://github.com/zFusions)
+[![Followers](https://img.shields.io/github/followers/zFusions?style=flat-square&logo=github&logoColor=white&label=Followers&color=000000)](https://github.com/zFusions?tab=followers)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FzFusions&query=%24.public_repos&label=PUBLIC+REPOS&style=flat-square&color=000000&logo=github&logoColor=white)](https://github.com/zFusions?tab=repositories)
 ![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-000000?style=flat-square&logoColor=white)
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/zfusions/zfusions/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/zFusions/zFusions/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 
 </div>
 
@@ -47,13 +47,13 @@ Desktop apps · Automation · Premium themes
 
 | | Project | Description |
 |:---:|:---|:---|
-| ▶ | [**Guns Views**](https://github.com/zfusions/guns-lol-views-bot) | Desktop control panel for guns.lol campaigns — Electron UI, Go backend, auto-update via GitHub Releases. |
-| ▶ | [**beautiful-mysellauth-themes**](https://github.com/zfusions/beautiful-mysellauth-themes) | Premium SellAuth & MySellAuth storefront themes. Brief → design system → full Nunjucks build. |
+| ▶ | [**Guns Views**](https://github.com/zFusions/guns-lol-views-bot) | Desktop control panel for guns.lol campaigns — Electron UI, Go backend, auto-update via GitHub Releases. |
+| ▶ | [**beautiful-mysellauth-themes**](https://github.com/zFusions/beautiful-mysellauth-themes) | Premium SellAuth & MySellAuth storefront themes. Brief → design system → full Nunjucks build. |
 
 <br/>
 
-[![Guns Views](https://img.shields.io/badge/GUNS_VIEWS-guns--lol--views--bot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zfusions/guns-lol-views-bot)
-[![SellAuth themes](https://img.shields.io/badge/SELLAUTH_THEMES-beautiful--mysellauth--themes-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zfusions/beautiful-mysellauth-themes)
+[![Guns Views](https://img.shields.io/badge/GUNS_VIEWS-guns--lol--views--bot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions/guns-lol-views-bot)
+[![SellAuth themes](https://img.shields.io/badge/SELLAUTH_THEMES-beautiful--mysellauth--themes-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions/beautiful-mysellauth-themes)
 
 </details>
 
@@ -82,23 +82,23 @@ Desktop apps · Automation · Premium themes
 
 <div align="center">
 
-<a href="https://github.com/zfusions">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zfusions&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=percentile&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<a href="https://github.com/zFusions">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zFusions&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub stats" />
 </a>
-<a href="https://github.com/zfusions">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfusions&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top languages" />
+<a href="https://github.com/zFusions">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=zfusions&theme=dark&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=zFusions&theme=dark&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" alt="GitHub streak" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/zfusions">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zfusions&theme=react-dark&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" />
+<a href="https://github.com/zFusions">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zFusions&theme=react-dark&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" />
 </a>
 
 </div>
@@ -113,9 +113,9 @@ Desktop apps · Automation · Premium themes
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-zfusions-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zfusions)
-[![Guns Views](https://img.shields.io/badge/REPO-guns--lol--views--bot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zfusions/guns-lol-views-bot)
-[![NodeProxies](https://img.shields.io/badge/NodeProxies-Partner-000000?style=for-the-badge&logoColor=white)](https://nodeproxies.xyz/register?ref=C8395E27)
+[![GitHub](https://img.shields.io/badge/GitHub-zFusions-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions)
+[![Guns Views](https://img.shields.io/badge/REPO-guns--lol--views--bot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions/guns-lol-views-bot)
+[![NodeProxies](https://img.shields.io/badge/NodeProxies-Partner-000000?style=for-the-badge&logo=shields.io&logoColor=white)](https://nodeproxies.xyz/register?ref=C8395E27)
 
 </div>
 

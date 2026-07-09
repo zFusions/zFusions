@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/profile-banner.png" width="100%" alt="zFusions banner" />
 
-### Building useful tools for VibeCoders
+## Building useful tools for VibeCoders
 
 Desktop apps · Automation · Premium themes
 
@@ -107,15 +107,12 @@ Desktop apps · Automation · Premium themes
 ### Contact me
 
 <p align="center">
-<a href="https://github.com/zFusions" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="" /></a><a href="mailto:zfusions@proton.me" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="" /></a><a href="https://t.me/Babouchh" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/48px-Telegram_logo.svg.png" width="48" height="48" alt="" /></a><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="" />
+<a href="https://github.com/zFusions" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="" /></a><a href="mailto:zfusions@proton.me" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="" /></a><a href="https://t.me/Babouchh" target="_blank"><img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/telegram.png" width="48" height="48" alt="" /></a><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="" />
 </p>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-zfusions@proton.me-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:zfusions@proton.me)
-[![Discord](https://img.shields.io/badge/Discord-z7j0-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/249258897280466944)
-[![Telegram](https://img.shields.io/badge/Telegram-Babouchh-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Babouchh)
-[![GitHub](https://img.shields.io/badge/GitHub-zFusions-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions)
+[![Email](https://img.shields.io/badge/Email-zfusions@proton.me-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:zfusions@proton.me)[![Discord](https://img.shields.io/badge/Discord-z7j0-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)[![Telegram](https://img.shields.io/badge/Telegram-Babouchh-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Babouchh)[![GitHub](https://img.shields.io/badge/GitHub-zFusions-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions)
 
 </div>
 

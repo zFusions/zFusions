@@ -113,7 +113,7 @@ Desktop apps · Automation · Premium themes
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-zfusions@proton.me-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:zfusions@proton.me)
-[![Discord](https://img.shields.io/badge/Discord-z7j0-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-z7j0-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/249258897280466944)
 [![Telegram](https://img.shields.io/badge/Telegram-Babouchh-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Babouchh)
 [![GitHub](https://img.shields.io/badge/GitHub-zFusions-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zFusions)
 

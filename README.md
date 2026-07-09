@@ -107,7 +107,7 @@ Desktop apps · Automation · Premium themes
 ### Contact me
 
 <p align="center">
-<a href="https://github.com/zFusions" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="" /></a><a href="mailto:zfusions@proton.me" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="" /></a><a href="https://t.me/Babouchh" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1a1a1a?style=flat-square&logo=telegram&logoColor=26A5E4" width="48" height="48" alt="" /></a><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="" />
+<a href="https://github.com/zFusions" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="" /></a><a href="mailto:zfusions@proton.me" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="" /></a><a href="https://t.me/Babouchh" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/48px-Telegram_logo.svg.png" width="48" height="48" alt="" /></a><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="" />
 </p>
 
 <br/>

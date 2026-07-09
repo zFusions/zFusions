@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/profile-banner.png" width="100%" alt="zFusions banner" />
 
-## Building useful tools for VibeCoders
+### Building useful tools for VibeCoders
 
 Desktop apps · Automation · Premium themes
 
@@ -107,16 +107,7 @@ Desktop apps · Automation · Premium themes
 ### Contact me
 
 <p align="center">
-  <a href="https://github.com/zFusions" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
-  </a>
-  <a href="mailto:zfusions@proton.me" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email" />
-  </a>
-  <a href="https://t.me/Babouchh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram&theme=dark" width="48" height="48" alt="Telegram" />
-  </a>
-  <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="Discord" />
+<a href="https://github.com/zFusions" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /></a><a href="mailto:zfusions@proton.me" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="Email" /></a><a href="https://t.me/Babouchh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/telegram/telegram-original.svg" width="48" height="48" alt="Telegram" /></a><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48" height="48" alt="Discord" />
 </p>
 
 <br/>

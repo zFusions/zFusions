@@ -83,22 +83,16 @@ Desktop apps · Automation · Premium themes
 <div align="center">
 
 <a href="https://github.com/zFusions">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zFusions&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=zFusions&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub stats" />
 </a>
 <a href="https://github.com/zFusions">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top languages" />
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=zFusions&theme=dark&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" alt="GitHub streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/zFusions">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zFusions&theme=react-dark&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity graph" />
 </a>
 
 </div>

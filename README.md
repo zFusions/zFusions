@@ -8,10 +8,7 @@ Desktop apps · Automation · Premium themes
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=zFusions&label=PROFILE+VIEWS&color=000000&style=flat-square)](https://github.com/zFusions)
-[![Followers](https://img.shields.io/github/followers/zFusions?style=flat-square&logo=github&logoColor=white&label=Followers&color=000000)](https://github.com/zFusions?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FzFusions&query=%24.public_repos&label=PUBLIC+REPOS&style=flat-square&color=000000&logo=github&logoColor=white)](https://github.com/zFusions?tab=repositories)
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-000000?style=flat-square&logoColor=white)
+[![Profile views](https://komarev.com/ghpvc/?username=zFusions&label=PROFILE+VIEWS&color=000000&style=flat-square)](https://github.com/zFusions)[![Followers](https://img.shields.io/github/followers/zFusions?style=flat-square&logo=github&logoColor=white&label=Followers&color=000000)](https://github.com/zFusions?tab=followers)[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FzFusions&query=%24.public_repos&label=PUBLIC+REPOS&style=flat-square&color=000000&logo=github&logoColor=white)](https://github.com/zFusions?tab=repositories)![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-000000?style=flat-square&logoColor=white)
 
 <br/><br/>
 
@@ -47,9 +44,7 @@ Desktop apps · Automation · Premium themes
 
 <div align="center">
 
-<a href="https://github.com/zFusions/beautiful-mysellauth-themes">
-  <img width="460" src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d0d0d&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=333333" alt="beautiful-mysellauth-themes" />
-</a>
+<a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img width="460" src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d0d0d&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=333333" alt="" /></a>
 
 </div>
 
@@ -79,18 +74,11 @@ Desktop apps · Automation · Premium themes
 
 <div align="center">
 
-<a href="https://github.com/zFusions">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=zFusions&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub stats" />
-</a>
-<a href="https://github.com/zFusions">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top languages" />
-</a>
+<a href="https://github.com/zFusions"><img height="180" src="https://github-stats-extended.vercel.app/api?username=zFusions&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="" /></a><a href="https://github.com/zFusions"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="" /></a>
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=zFusions&theme=dark&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" alt="GitHub streak" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=zFusions&theme=dark&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" alt="" /></a>
 
 </div>
 

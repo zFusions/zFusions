@@ -1,0 +1,15 @@
+Drag this folder contents into https://github.com/zfusions/zfusions
+
+1. Open zfusions/zfusions on GitHub
+2. Click "Add file" -> "Upload files"
+3. Select ALL items inside github-profile-upload:
+   - README.md
+   - assets/ (folder)
+   - .github/ (folder)
+4. Commit to main
+
+After upload:
+- Go to Actions tab -> "Generate Snake" -> Run workflow
+- Wait ~1 minute, then refresh your profile
+
+Do NOT upload the github-profile-upload folder itself — upload its contents.

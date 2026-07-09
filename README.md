@@ -125,6 +125,6 @@ Desktop apps · Automation · Premium themes
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=50&section=footer&text=Star+a+repo+if+a+tool+saves+you+time.&fontSize=14&fontColor=fff" alt="Footer" />
+<a href="https://github.com/zFusions" target="_blank"><img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/footer-follow.png" width="100%" alt="Leave a follow" /></a>
 
 </div>

@@ -65,3 +65,11 @@ Based in France · Building in public · Most tools are free.
 <a href="https://t.me/Babouchh"><img src="https://img.shields.io/badge/Telegram-Babouchh-21262d?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/zFusions"><img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/footer-follow.png" width="100%" alt="Leave a follow" /></a>
+
+</div>

@@ -47,11 +47,12 @@ Desktop apps · Automation · Premium websites
 
 <div align="center">
 
-<a href="https://github.com/zFusions"><img height="180" src="https://github-stats-extended.vercel.app/api?username=zFusions&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub stats" /></a><a href="https://github.com/zFusions"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top languages" /></a>
+<a href="https://github.com/zFusions"><img height="170" src="https://github-stats-extended.vercel.app/api?username=zFusions&show_icons=true&theme=dark&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub stats" /></a>
+<a href="https://github.com/zFusions"><img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top languages" /></a>
 
-<br/><br/>
+<br/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=zFusions&theme=dark&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" alt="GitHub streak" /></a>
+<a href="https://git.io/streak-stats"><img height="170" src="https://streak-stats.demolab.com/?user=zFusions&theme=dark&hide_border=false&background=0d1117&stroke=30363d&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&border=30363d" alt="GitHub streak" /></a>
 
 </div>
 

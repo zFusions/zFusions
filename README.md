@@ -35,20 +35,8 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d" alt="beautiful-mysellauth-themes repository card" width="100%" /></a>
-      <br/>
-      <sub>Agent skill for premium SellAuth and MySellAuth storefront websites.<br/>Client brief in, production-ready build out.</sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://github.com/zFusions/guns-views-updates"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=guns-views-updates&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d" alt="guns-views-updates repository card" width="100%" /></a>
-      <br/>
-      <sub>Public release channel for the Guns Views desktop app.<br/>Signed update files, versioned and downloadable.</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="beautiful-mysellauth-themes repository card" width="48%" /></a>
+<a href="https://github.com/zFusions/guns-views-updates"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=guns-views-updates&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="guns-views-updates repository card" width="48%" /></a>
 
 </div>
 

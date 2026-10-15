@@ -5,7 +5,7 @@
 <h1>zFusions</h1>
 
 <p><b>Building useful tools for VibeCoders</b><br/>
-Desktop apps · Automation · Premium themes</p>
+Desktop apps · Automation · Premium websites</p>
 
 <a href="mailto:zfusions@proton.me"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-238636?style=flat-square&logo=github&logoColor=white" alt="Status: open to collaboration" /></a>
 
@@ -23,9 +23,9 @@ Based in France · Building in public · Most tools are free.
 
 | | |
 | :-- | :-- |
-| **Focus** | Desktop apps, Discord bots, SellAuth themes |
+| **Focus** | Desktop apps, Discord bots, SellAuth websites |
 | **Stack** | TypeScript, React, Go, Python, Electron |
-| **Currently** | SellAuth themes, open-source tooling |
+| **Currently** | SellAuth websites, open-source tooling |
 
 ## Featured project
 

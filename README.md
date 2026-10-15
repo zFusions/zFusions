@@ -1,37 +1,54 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/profile-banner.png" width="100%" alt="zFusions profile banner" />
-
-<h1>zFusions</h1>
-
-<p><b>Building useful tools for VibeCoders</b><br/>
-Desktop apps · Automation · Premium websites</p>
-
-<a href="mailto:zfusions@proton.me"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-238636?style=flat-square&logo=github&logoColor=white" alt="Status: open to collaboration" /></a>
+<img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/profile-banner.png" width="100%" alt="zFusions banner" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/zFusions/zFusions/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation" />
+<h1>zFusions</h1>
+
+<p>
+  <b>Desktop apps, automation and premium storefront websites.</b><br/>
+  Built to ship. Most tools are free.
+</p>
+
+<p>
+  <a href="#projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#tech-stack">Tech stack</a> &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
+</p>
+
+<a href="mailto:zfusions@proton.me"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLAB-238636?style=for-the-badge&logo=github&logoColor=white" alt="Status: open to collaboration" /></a>
 
 </div>
 
-## About
+<br/>
 
-Indie builder focused on automation, Discord tooling and premium storefront templates.
-Helping creators ship faster with polished, production-ready projects.
-Based in France · Building in public · Most tools are free.
+## What I build
 
 | | |
 | :-- | :-- |
-| **Focus** | Desktop apps, Discord bots, SellAuth websites |
-| **Stack** | TypeScript, React, Go, Python, Electron |
-| **Currently** | SellAuth websites, open-source tooling |
+| **Desktop apps** | Tools shipped as installable apps with a public update channel |
+| **Automation & Discord tooling** | Bots and workflows that remove repetitive work |
+| **Storefront websites** | Premium SellAuth and MySellAuth storefronts, from brief to production |
 
-## Featured project
+## Projects
 
 <div align="center">
 
-<a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img width="460" src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d0d0d&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=333333" alt="beautiful-mysellauth-themes repository card" /></a>
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d" alt="beautiful-mysellauth-themes repository card" width="100%" /></a>
+      <br/>
+      <sub>Agent skill for premium SellAuth and MySellAuth storefront websites.<br/>Client brief in, production-ready build out.</sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/zFusions/guns-views-updates"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=guns-views-updates&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d" alt="guns-views-updates repository card" width="100%" /></a>
+      <br/>
+      <sub>Public release channel for the Guns Views desktop app.<br/>Signed update files, versioned and downloadable.</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -43,18 +60,13 @@ Based in France · Building in public · Most tools are free.
 
 </div>
 
-<details>
-<summary><b>GitHub stats</b></summary>
-<br/>
+## Activity
 
 <div align="center">
 
-<a href="https://github.com/zFusions"><img height="180" src="https://github-stats-extended.vercel.app/api?username=zFusions&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub stats" /></a>
-<a href="https://github.com/zFusions"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top languages" /></a>
+<img src="https://raw.githubusercontent.com/zFusions/zFusions/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation" />
 
 </div>
-
-</details>
 
 ## Contact
 

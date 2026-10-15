@@ -35,28 +35,25 @@ Desktop apps · Automation · Premium websites
 
 > Tools, languages, and other things that I like to work with.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,electron,go,python,nodejs,discord,git,vscode&theme=dark&perline=10" />
-  <img alt="TypeScript, React, Next.js, Electron, Go, Python, Node.js, Discord, Git, VS Code" src="https://skillicons.dev/icons?i=ts,react,nextjs,electron,go,python,nodejs,discord,git,vscode&theme=light&perline=10" />
-</picture>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,electron,go,python,nodejs,discord,git,vscode&theme=dark&perline=5" alt="TypeScript, React, Next.js, Electron, Go, Python, Node.js, Discord, Git, VS Code" />
+
+</div>
 
 ## GitHub Stats
 
 > Live stats, updated automatically.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=zFusions&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=1f6feb" />
-  <img height="180" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=zFusions&show_icons=true&theme=transparent&hide_border=true&title_color=24292f&text_color=57606a&icon_color=1f6feb" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&langs_count=8" />
-  <img height="180" alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=transparent&hide_border=true&title_color=24292f&text_color=57606a&langs_count=8" />
-</picture>
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=zFusions&theme=transparent&hide_border=true&ring=1f6feb&fire=1f6feb&currStreakNum=ffffff&currStreakLabel=1f6feb&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=zFusions&theme=transparent&hide_border=true&ring=1f6feb&fire=1f6feb&currStreakNum=24292f&currStreakLabel=1f6feb&sideNums=24292f&sideLabels=57606a&dates=6e7781" />
-</picture>
+<a href="https://github.com/zFusions"><img height="180" src="https://github-stats-extended.vercel.app/api?username=zFusions&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub stats" /></a><a href="https://github.com/zFusions"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top languages" /></a>
+
+<br/><br/>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=zFusions&theme=dark&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" alt="GitHub streak" /></a>
+
+</div>
 
 ## Contact
 

@@ -18,9 +18,8 @@ Desktop apps · Automation · Premium websites
 
 > Indie builder focused on automation, Discord tooling, and premium storefront templates.
 
-- 🛠️ **Focus:** Desktop apps, Discord bots, SellAuth websites
-- 🧰 **Stack:** TypeScript, React, Go, Python, Electron
-- 🌱 **Currently:** SellAuth websites · open-source tooling
+- 🛠️ **Focus:** Desktop apps, Discord bots, Websites and more !
+- 🧰 **Stack:** TypeScript, React, Go, Python, JavaScript
 - 🚀 Helping creators ship faster with polished, production-ready projects
 - 💬 Building in public on GitHub · Most tools are free
 

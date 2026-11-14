@@ -38,7 +38,7 @@ def main():
             svg = file.read()
         for element_id, value in metrics.items():
             svg = re.sub(
-                rf'(<text id="{element_id}"[^>]*>).*?(</text>)',
+                rf'(<tspan id="{element_id}"[^>]*>).*?(</tspan>)',
                 lambda match: match.group(1) + value + match.group(2),
                 svg,
             )

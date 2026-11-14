@@ -1,44 +1,54 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/profile-banner.png" width="100%" alt="zFusions banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:30363d&text=zFusions&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Tools%20for%20VibeCoders&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="zFusions" />
 
-# 👋 Hello there! I'm zFusions
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=9F9F9F&center=true&vCenter=true&width=520&lines=Desktop+apps+%C2%B7+Discord+bots+%C2%B7+Premium+websites;Indie+builder.+Shipping+in+public.;Most+of+my+tools+are+free." alt="Typing SVG" /></a>
 
-### Building useful tools for VibeCoders
+<br/>
 
-Desktop apps · Automation · Premium websites
+<a href="mailto:zfusions@proton.me"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.com/users/249258897280466944"><img src="https://img.shields.io/badge/Discord-z7j0-0d1117?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://t.me/Babouchh"><img src="https://img.shields.io/badge/Telegram-@Babouchh-0d1117?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://github.com/zFusions"><img src="https://img.shields.io/github/followers/zFusions?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="Followers" /></a>
 
 </div>
 
-## About
+<br/>
 
-> Indie builder focused on automation, Discord tooling, and premium storefront templates.
+## `~/about`
 
-- 🛠️ **Focus:** Desktop apps, Discord bots, Websites and more !
-- 🧰 **Stack:** TypeScript, React, Rust, Go, Python, JavaScript
-- 🚀 Helping creators ship faster with polished, production-ready projects
-- 💬 Building in public on GitHub · Most tools are free
+I build automation, Discord tooling and storefront templates, then ship them polished and production-ready so creators can launch faster.
 
-## Featured Projects
+| | |
+|:--|:--|
+| **Focus** | Desktop apps, Discord bots, websites |
+| **Stack** | TypeScript, React, Rust, Go, Python, JavaScript |
+| **Mindset** | Build in public, free when possible |
 
-> Open-source tools and storefront tooling I'm shipping.
+<br/>
 
-<a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="beautiful-mysellauth-themes repository card" width="48%" /></a>
-<a href="https://github.com/zFusions/dollyt"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=dollyt&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="dollyt repository card" width="48%" /></a>
-
-## Skills
-
-> Tools, languages, and other things that I like to work with.
+## `~/featured`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,rust,go,python,nodejs,discord,git,vscode&theme=dark&perline=5" alt="TypeScript, React, Next.js, Rust, Go, Python, Node.js, Discord, Git, VS Code" />
+<a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="beautiful-mysellauth-themes" width="48%" /></a>
+<a href="https://github.com/zFusions/dollyt"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=dollyt&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="dollyt" width="48%" /></a>
 
 </div>
 
-## GitHub Stats
+<br/>
 
-> Live stats, updated automatically.
+## `~/stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,rust,go,python,nodejs,discord,git,vscode&theme=dark&perline=10" alt="Stack" />
+
+</div>
+
+<br/>
+
+## `~/stats`
 
 <div align="center">
 
@@ -51,19 +61,10 @@ Desktop apps · Automation · Premium websites
 
 </div>
 
-## Contact
-
-> The fastest way to reach me.
-
-- 📫 **[Email](mailto:zfusions@proton.me "Email")**: zfusions@proton.me
-- 💬 **[Discord](https://discord.com/users/249258897280466944 "Discord")**: z7j0
-- ✈️ **[Telegram](https://t.me/Babouchh "Telegram")**: @Babouchh
-- 🐙 **[GitHub](https://github.com/zFusions "GitHub")**: zFusions
-
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/zFusions"><img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/footer-follow.png" width="100%" alt="Leave a follow" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:30363d,50:161b22,100:0d1117&section=footer" width="100%" alt="footer" />
 
 </div>

@@ -1,85 +1,73 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/profile-banner.png" width="100%" alt="zFusions" />
+<img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/profile-banner.png" width="100%" alt="zFusions banner" />
 
-<br/>
+# 👋 Hello there! I'm zFusions
 
-**I build tools that let creators ship faster.**
-Desktop apps, Discord tooling and premium storefront themes. Shipped in public, mostly free.
+### Building useful tools for VibeCoders
 
-<br/>
+Desktop apps · Automation · Premium websites
 
-[![Email](https://img.shields.io/badge/Email-zfusions%40proton.me-0d1117?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:zfusions@proton.me)
-[![Discord](https://img.shields.io/badge/Discord-z7j0-0d1117?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/249258897280466944)
-[![Telegram](https://img.shields.io/badge/Telegram-%40Babouchh-0d1117?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Babouchh)
+[![Followers](https://img.shields.io/github/followers/zFusions?style=flat&logo=github&label=Followers)](https://github.com/zFusions?tab=followers) [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FzFusions&query=%24.public_repos&label=Public%20repos&style=flat&logo=github)](https://github.com/zFusions?tab=repositories) [![Status](https://img.shields.io/badge/Status-Open%20to%20collab-238636?style=flat&logo=github)](mailto:zfusions@proton.me)
+
+<img src="https://raw.githubusercontent.com/zFusions/zFusions/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 
 </div>
 
-<br/>
+## About
 
-## What I ship
+> Indie builder focused on automation, Discord tooling, and premium storefront templates.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🛠️ **Focus:** Desktop apps, Discord bots, Websites and more !
+- 🧰 **Stack:** TypeScript, React, Rust, Go, Python, JavaScript
+- 🚀 Helping creators ship faster with polished, production-ready projects
+- 💬 Building in public on GitHub · Most tools are free
 
-**Desktop apps**
-Native-feeling tools for Windows, with a real update pipeline behind them.
+## Featured Projects
 
-</td>
-<td width="50%" valign="top">
+> Open-source tools and storefront tooling I'm shipping.
 
-**Discord tooling**
-Bots and automation built to run unattended.
+<a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="beautiful-mysellauth-themes repository card" width="48%" /></a>
+<a href="https://github.com/zFusions/dollyt"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=dollyt&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="dollyt repository card" width="48%" /></a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## Skills
 
-**Storefront themes**
-Premium SellAuth / MySellAuth themes with a proper design system, not a Bootstrap skin.
+> Tools, languages, and other things that I like to work with.
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
-**Agent skills**
-Reusable skills that teach AI coding agents to produce production-grade output.
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,rust,go,python,nodejs,discord,git,vscode&theme=dark&perline=5" alt="TypeScript, React, Next.js, Rust, Go, Python, Node.js, Discord, Git, VS Code" />
 
-</td>
-</tr>
-</table>
+</div>
 
-<br/>
+## GitHub Stats
 
-## Featured
+> Live stats, updated automatically.
 
-<a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="beautiful-mysellauth-themes" width="49%" /></a>
-<a href="https://github.com/zFusions/dollyt"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=dollyt&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="dollyt" width="49%" /></a>
+<div align="center">
+
+<a href="https://github.com/zFusions"><img height="170" src="https://github-stats-extended.vercel.app/api?username=zFusions&show_icons=true&theme=dark&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub stats" /></a>
+<a href="https://github.com/zFusions"><img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top languages" /></a>
 
 <br/>
 
-## Stack
+<a href="https://git.io/streak-stats"><img height="170" src="https://streak-stats.demolab.com/?user=zFusions&theme=dark&hide_border=false&background=0d1117&stroke=30363d&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&border=30363d" alt="GitHub streak" /></a>
 
-|                |                                                                                                                                                                        |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**  | <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust&theme=dark" alt="TypeScript, JavaScript, Python, Go, Rust" />                                                 |
-| **Frontend**   | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS" />                                                        |
-| **Backend**    | <img src="https://skillicons.dev/icons?i=nodejs,supabase,discord&theme=dark" alt="Node.js, Supabase, Discord" />                                                        |
-| **Workflow**   | <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="Git, VS Code" />                                                                                   |
+</div>
 
-<br/>
+## Contact
 
-## Now
+> The fastest way to reach me.
 
-- Shipping SellAuth themes and the tooling around them
-- Building open-source utilities in Rust and TypeScript
-- Open to collaborations: [say hi](mailto:zfusions@proton.me)
+- 📫 **[Email](mailto:zfusions@proton.me "Email")**: zfusions@proton.me
+- 💬 **[Discord](https://discord.com/users/249258897280466944 "Discord")**: z7j0
+- ✈️ **[Telegram](https://t.me/Babouchh "Telegram")**: @Babouchh
+- 🐙 **[GitHub](https://github.com/zFusions "GitHub")**: zFusions
 
 <br/>
 
 <div align="center">
 
-<sub>Most of my work is free. If it saved you time, a ⭐ on the repo is the best thank-you.</sub>
+<a href="https://github.com/zFusions"><img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/footer-follow.png" width="100%" alt="Leave a follow" /></a>
 
 </div>

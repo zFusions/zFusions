@@ -8,10 +8,6 @@
 
 Desktop apps · Automation · Premium websites
 
-[![Followers](https://img.shields.io/github/followers/zFusions?style=flat&logo=github&label=Followers)](https://github.com/zFusions?tab=followers) [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FzFusions&query=%24.public_repos&label=Public%20repos&style=flat&logo=github)](https://github.com/zFusions?tab=repositories) [![Status](https://img.shields.io/badge/Status-Open%20to%20collab-238636?style=flat&logo=github)](mailto:zfusions@proton.me)
-
-<img src="https://raw.githubusercontent.com/zFusions/zFusions/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-
 </div>
 
 ## About

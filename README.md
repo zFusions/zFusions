@@ -19,7 +19,7 @@ Desktop apps · Automation · Premium websites
 > Indie builder focused on automation, Discord tooling, and premium storefront templates.
 
 - 🛠️ **Focus:** Desktop apps, Discord bots, Websites and more !
-- 🧰 **Stack:** TypeScript, React, Go, Python, JavaScript
+- 🧰 **Stack:** TypeScript, React, Rust, Go, Python, JavaScript
 - 🚀 Helping creators ship faster with polished, production-ready projects
 - 💬 Building in public on GitHub · Most tools are free
 
@@ -28,7 +28,7 @@ Desktop apps · Automation · Premium websites
 > Open-source tools and storefront tooling I'm shipping.
 
 <a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="beautiful-mysellauth-themes repository card" width="48%" /></a>
-<a href="https://github.com/zFusions/guns-views-updates"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=guns-views-updates&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="guns-views-updates repository card" width="48%" /></a>
+<a href="https://github.com/zFusions/dollyt"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=dollyt&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="dollyt repository card" width="48%" /></a>
 
 ## Skills
 
@@ -36,7 +36,7 @@ Desktop apps · Automation · Premium websites
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,electron,go,python,nodejs,discord,git,vscode&theme=dark&perline=5" alt="TypeScript, React, Next.js, Electron, Go, Python, Node.js, Discord, Git, VS Code" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,rust,go,python,nodejs,discord,git,vscode&theme=dark&perline=5" alt="TypeScript, React, Next.js, Rust, Go, Python, Node.js, Discord, Git, VS Code" />
 
 </div>
 

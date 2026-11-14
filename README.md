@@ -57,12 +57,6 @@ Reusable skills that teach AI coding agents to produce production-grade output.
 <a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="beautiful-mysellauth-themes" width="49%" /></a>
 <a href="https://github.com/zFusions/dollyt"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=dollyt&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="dollyt" width="49%" /></a>
 
-Install the themes skill in one line:
-
-```bash
-npx skills add zFusions/beautiful-mysellauth-themes --skill beautiful-mysellauth-themes -y
-```
-
 <br/>
 
 ## Stack

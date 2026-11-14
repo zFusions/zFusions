@@ -1,72 +1,62 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/profile-banner.png" width="100%" alt="zFusions banner" />
-
-# 👋 Hello there! I'm zFusions
-
-### Building useful tools for VibeCoders
-
-Desktop apps · Automation · Premium websites
-
-</div>
-
-## About
-
-> Indie builder focused on automation, Discord tooling, and premium storefront templates.
-
-- 🛠️ **Focus:** Desktop apps, Discord bots, Websites and more !
-- 🧰 **Stack:** TypeScript, React, Rust, Go, Python, JavaScript
-- 🚀 Helping creators ship faster with polished, production-ready projects
-- 💬 Building in public on GitHub · Most tools are free
-
-## Featured Projects
-
-> Open-source tools and storefront tooling I'm shipping.
-
-<a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="beautiful-mysellauth-themes repository card" width="48%" /></a>
-<a href="https://github.com/zFusions/dollyt"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zFusions&repo=dollyt&theme=dark&hide_border=false&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=30363d&description_lines_count=2" alt="dollyt repository card" width="48%" /></a>
-
-## Skills
-
-> Tools, languages, and other things that I like to work with.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,rust,go,python,nodejs,discord,git,vscode&theme=dark&perline=5" alt="TypeScript, React, Next.js, Rust, Go, Python, Node.js, Discord, Git, VS Code" />
-
-</div>
-
-## GitHub Stats
-
-> Live stats, updated automatically.
-
-<div align="center">
-
-<a href="https://github.com/zFusions"><img height="170" src="https://github-stats-extended.vercel.app/api?username=zFusions&show_icons=true&theme=dark&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub stats" /></a>
-<a href="https://github.com/zFusions"><img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zFusions&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top languages" /></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/profile-light.svg">
+  <img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/profile-dark.svg" width="100%" alt="zFusions — Independent developer">
+</picture>
 
 <br/>
 
-<a href="https://git.io/streak-stats"><img height="170" src="https://streak-stats.demolab.com/?user=zFusions&theme=dark&hide_border=false&background=0d1117&stroke=30363d&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&border=30363d" alt="GitHub streak" /></a>
+<a href="https://github.com/zFusions?tab=repositories"><img src="https://img.shields.io/badge/OPEN_SOURCE-Projects-7C3AED?style=for-the-badge&labelColor=17143A" alt="Open source projects"></a>
+<a href="https://github.com/zFusions"><img src="https://img.shields.io/badge/BUILDING-IN_PUBLIC-0891B2?style=for-the-badge&labelColor=10243A" alt="Building in public"></a>
+
+**I turn ideas into useful software and polished digital experiences.**
+
+[Projects](#-selected-work) · [Tech stack](#-toolkit) · [Contact](#-connect)
 
 </div>
 
-## Contact
+---
 
-> The fastest way to reach me.
+### ✦ About
 
-- 📫 **[Email](mailto:zfusions@proton.me "Email")**: zfusions@proton.me
-- 💬 **[Discord](https://discord.com/users/249258897280466944 "Discord")**: z7j0
-- ✈️ **[Telegram](https://t.me/Babouchh "Telegram")**: @Babouchh
-- 🐙 **[GitHub](https://github.com/zFusions "GitHub")**: zFusions
+Independent developer interested in building **desktop software, automation, Discord tooling and premium web experiences**. I enjoy taking ideas from concept to a clean, usable product.
 
-<br/>
+### ◈ Selected work
+
+<div align="center">
+  <a href="https://github.com/zFusions/beautiful-mysellauth-themes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zFusions&repo=beautiful-mysellauth-themes&theme=tokyonight&hide_border=true&bg_color=0D1024&title_color=C4B5FD&icon_color=67E8F9" width="48%" alt="Beautiful MySellAuth Themes"></a>
+  <a href="https://github.com/zFusions/dollyt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zFusions&repo=dollyt&theme=tokyonight&hide_border=true&bg_color=0D1024&title_color=C4B5FD&icon_color=67E8F9" width="48%" alt="Dollyt"></a>
+</div>
+
+### ⌘ Toolkit
 
 <div align="center">
 
-<a href="https://github.com/zFusions"><img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/footer-follow.png" width="100%" alt="Leave a follow" /></a>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,rust,go,python,nodejs,discord,git,vscode&theme=dark&perline=10" alt="TypeScript, React, Next.js, Rust, Go, Python, Node.js, Discord, Git and VS Code">
 
 </div>
 
+### ⟡ GitHub activity
 
-Refais ce readme en plus beau et un peu plus condencer original pour un beau rendu gituhub
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zFusions&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&bg_color=0D1024&title_color=C4B5FD&text_color=C7D2FE&icon_color=67E8F9" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zFusions&layout=compact&hide_border=true&bg_color=0D1024&title_color=C4B5FD&text_color=C7D2FE&langs_count=6" alt="Most used languages">
+
+</div>
+
+### ↗ Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-Contact-7C3AED?style=flat-square&logo=protonmail&logoColor=white)](mailto:zfusions@proton.me)
+[![Discord](https://img.shields.io/badge/DISCORD-z7j0-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/249258897280466944)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-@Babouchh-0891B2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Babouchh)
+[![GitHub](https://img.shields.io/badge/GITHUB-zFusions-334155?style=flat-square&logo=github&logoColor=white)](https://github.com/zFusions)
+
+<br/>
+
+<sub>Designed with precision. Built with curiosity.</sub>
+
+</div>

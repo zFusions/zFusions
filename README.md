@@ -67,5 +67,3 @@ Desktop apps · Automation · Premium websites
 <a href="https://github.com/zFusions"><img src="https://raw.githubusercontent.com/zFusions/zFusions/main/assets/footer-follow.png" width="100%" alt="Leave a follow" /></a>
 
 </div>
-
-Refais ce readme en plus beau et un peu plus condencer original pour un beau rendu gituhub
